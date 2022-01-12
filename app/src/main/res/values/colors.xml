@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="purpleCC">#6819C4</color>
+    <color name="lightPurpleCC">#8156EE</color>
+    <color name="pBlueCC">#5D92DE</color>
+    <color name="lightBlueCC">#2FEDD1</color>
+    <color name="brokenWhiteCC">#BACAEB</color>
+    <color name="whiteCC">#EFFFFE</color>
+
 </resources>
